@@ -1,0 +1,28 @@
+roca{
+    color:darkgoldenrod;
+    width: 2%;
+    height: 2%;
+    background-color: rgb(54, 54, 54);
+    border: black 1px solid;
+}
+comida{
+    color: rgb(255, 68, 193);
+    width: 2%;
+    height: 2%;
+    background-color: hotpink;
+    border: black 1px solid;
+}
+piso{
+    color: rgb(255, 255, 255);
+    width: 2%;
+    height: 2%;
+    background-color: rgb(255, 255, 255);
+    border: black 1px solid;
+}
+digi{
+    color: rgb(0, 26, 255);
+    width: 2%;
+    height: 2%;
+    background-color: rgb(20, 241, 0);
+    border: rgb(0, 0, 0) 1px solid;
+}
