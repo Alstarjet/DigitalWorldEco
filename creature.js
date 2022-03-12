@@ -25,6 +25,7 @@ function cDigi_Creatura(raza,x,y){
         this.y=y;
     }
     this.coMe=function(x,y){
+        mundo[x][y]=new terreno_elemento("suelo",0,"<piso>X</piso>",x,y);
         this.x=x;
         this.y=y;
     }
